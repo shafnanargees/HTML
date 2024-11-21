@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(236, 232, 232);
+}
+h1{
+    color: rgb(255, 187, 0);
+}
+p{
+    color: white;
+    background-color: black;
+
+}
+
+
+table{
+    border: 1 solid black;
+    border-collapse: collapse;
+    }
+th,td{
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+
+a:link{
+    text-decoration:none ;
+}
+
+ul{
+    color: blue;
+}
+ol{
+
+    color: brown;
+}
